@@ -84,7 +84,7 @@ p{
 }
 .code-des{
   width: 80%;
-  text-align: center;
+  text-align: left;
 }
 .code-logo{
   float: left;
@@ -92,7 +92,7 @@ p{
 }
 .c-des{
   width: 80%;
-  text-align: center;
+  text-align: left;
 }
 .c-logo{
   float: right;
@@ -101,7 +101,7 @@ p{
 
 .cpp-des{
   width: 80%;
-  text-align: center;
+  text-align: left;
 }
 .cpp-logo{
   float: left;
@@ -112,7 +112,7 @@ p{
 }
 .java-des{
   width: 80%;
-  text-align: center;
+  text-align: left;
 }
 .java-logo{
   float: right;
@@ -123,7 +123,7 @@ p{
 
 .python-des{
   width: 80%;
-  text-align: center;
+  text-align: left;
 }
 .python-logo{
   float: left;
@@ -134,7 +134,7 @@ p{
 
 .web-des{
   width: 80%;
-  text-align: center;
+  text-align: left;
 }
 .web-logo{
   float: right;
